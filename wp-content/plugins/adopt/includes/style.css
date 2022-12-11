@@ -1,0 +1,30 @@
+.masthead-adopt {
+  text-align: center;
+  margin: 30px 0 20px;
+}
+.masthead-logo-adopt {
+  max-height: 50px;
+}
+.card-adopt {
+  background-color: #fff;
+  text-align: center;
+  margin: 0 auto;
+  box-sizing: border-box;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 30px 0;
+}
+.register-adopt {
+  color: rgb(0, 221, 128);
+  font-weight: 600;
+}
+.input-adopt {
+  width: 274px;
+}
+#submit {
+  border: rgb(0, 221, 128);
+  background-color: rgb(0, 221, 128);
+  font-weight: 600;
+  padding: 8px 30px;
+}
